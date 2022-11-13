@@ -66,6 +66,6 @@ button.addEventListener("click", () => {
 
     };
     // console.log(outputArray.join(""));
-    outputMorseCode.textContent = outputArray.join("");
+    outputMorseCode.textContent = outputArray.join("    ");
 })
 
