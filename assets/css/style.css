@@ -13,3 +13,7 @@ section input,
 section button {
     padding: 0.5em 1em;
 }
+
+#output {
+    font-size: 3rem;
+}
